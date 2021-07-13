@@ -1,11 +1,13 @@
 ﻿body
 {
+    padding: 5px 5px 5px 5px;
+    border: 5px double black;
     font-family: Arial, Arial, Helvetica, sans-serif, sans-serif;
 }
 
 header {
-    margin: 0;
-    border: 25px;
+    margin: 15px;
+    border: 5px dotted red;
     border-color: black;
     background-color: lightsteelblue;
 }
@@ -18,6 +20,7 @@ ul {
     color: darkslategray;
 }
 
+/*Would like to learn how to add custom fonts > look up how to add .ttf files to projects*/
 #wind-waker {
     font-family: fantasy;
 }
