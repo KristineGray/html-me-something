@@ -12,6 +12,11 @@ header {
     background-color: lightsteelblue;
 }
 
+h1 {
+    padding: 20px;
+
+}
+
 ul {
     padding: 5px 30px 5px 30px;
     border: 2px solid black;
@@ -53,4 +58,8 @@ h4 {
 
 p {
     font-size: 12px;
+}
+
+figcaption {
+    font-size: 10px;
 }
