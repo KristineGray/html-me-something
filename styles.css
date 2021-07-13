@@ -1,4 +1,15 @@
 ﻿body
 {
-    font-family: monospace;
+    font-family: Arial, Arial, Helvetica, sans-serif, sans-serif;
+}
+
+header {
+    margin: 0;
+    border: 25px;
+    border-color: black;
+    background-color: lightsteelblue;
+}
+
+ul {
+    list-style-type: lower-roman;
 }
