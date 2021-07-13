@@ -1,6 +1,6 @@
 ﻿body
 {
-    padding: 5px 5px 5px 5px;
+    padding: 5px;
     border: 5px double black;
     font-family: Arial, Arial, Helvetica, sans-serif, sans-serif;
 }
@@ -58,6 +58,10 @@ h4 {
 
 p {
     font-size: 12px;
+}
+
+img {
+    resize: 
 }
 
 figcaption {
