@@ -13,3 +13,24 @@ header {
 ul {
     list-style-type: lower-roman;
 }
+
+.game {
+    color: darkslategray;
+}
+
+#wind-waker {
+    font-family: fantasy;
+}
+
+#colossus {
+    font-family: 'Copperplate Gothic', fantasy;
+    
+}
+
+#snake-eater {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wayward {
+    font-family: "Open serif", sans-serif;
+}
