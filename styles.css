@@ -23,6 +23,8 @@ li:nth-child(even) {
 }
 
 .game {
+    margin-top: 0px;
+    margin-bottom: 0px;
     color: darkslategray;
 }
 
@@ -42,4 +44,13 @@ li:nth-child(even) {
 
 #wayward {
     font-family: "Open serif", sans-serif;
+}
+
+h4 {
+    margin-bottom: 0px;
+    font-style: italic;
+}
+
+p {
+    font-size: 12px;
 }
