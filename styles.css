@@ -8,8 +8,9 @@
 
 header {
     margin: 15px;
-    border: 5px dotted red;
+    border: 5px double black;
     border-color: black;
+    background-color: whitesmoke;
 }
 
 h1 {
@@ -18,9 +19,9 @@ h1 {
 }
 
 ul {
+    margin: 15px;
     padding: 5px 30px 5px 30px;
     border: 2px solid black;
-    background-color: whitesmoke;
 }
 
 li:nth-child(even) {
